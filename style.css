@@ -80,6 +80,13 @@ p {
     padding: 2vw;
     text-align: justify;
 }
+
+footer{
+    background-color: #1B1413;
+    font-size: 20px;
+    color: #f87f0f;
+    font-weight:bold;
+}
 .personalidade{
     width: 40%;
     height: auto;
